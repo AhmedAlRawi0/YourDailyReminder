@@ -1,12 +1,12 @@
 # 📜 Daily Reminders Automation
 
-This project automates the process of posting Islamic reminder cards to Instagram _(without violating Ig's community guidlines)_ and soon Telegram. It scrapes cards from a Dawah website _(allowed by the website)_, saves the images, and schedules daily posts with meaningful captions. 
+This simple project automates the process of posting reminder cards to Instagram _(without violating Ig's community guidlines)_ and soon Telegram. It scrapes cards from a Dawah website _(allowed by the website)_, saves the images, and schedules daily posts with meaningful captions. 
 
 ---
 
 ## 🕌 **Purpose of the Project**
 
-This project aims to contribute to the spreading of beneficial knowledge, as emphasized in the noble Hadith of the Prophet Muhammad ﷺ (❤️):
+This project aims to contribute to the spreading of beneficial knowledge, as emphasized in the noble Hadith of the Prophet Muhammad ﷺ:
 
 > **"When a man dies, his deeds come to an end except for three things:  
 > a continuing charity, beneficial knowledge, or a righteous child who prays for him."**  
@@ -174,6 +174,7 @@ crontab -l
 This project is open for contributions! Feel free to:
 - Enhance the script (e.g., error handling, scheduling).
 - Add support for other platforms (e.g., Telegram).
+- Open an issue
 
 ---
 
@@ -185,10 +186,3 @@ May Allah accept this effort and make it a means of spreading beneficial knowled
 
 ## **🔗 License**
 This project is licensed under the MIT License. Feel free to use, fork, and improve it.
-
----
-
-## **💬 Contact**
-
-If you have any questions or suggestions, feel free to open an issue or reach out.
-
