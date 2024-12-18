@@ -108,7 +108,7 @@ python3 InstagramPost.py
 
 ---
 
-## **⏰ Schedule the Scripts (Cron Job)**
+## **⏰ Schedule the Scripts During Times Where the Laptop is ON (Cron Job)**
 
 To automate daily posting, set up a **cron job**:
 
